@@ -1,0 +1,8 @@
+br\com\matheus\gerenciador\controller\JogadorController.class
+br\com\matheus\gerenciador\jogador\Dominante.class
+br\com\matheus\gerenciador\service\JogadorService.class
+br\com\matheus\gerenciador\jogador\Posicao.class
+br\com\matheus\gerenciador\GerenciadorJogadoresApplication.class
+br\com\matheus\gerenciador\jogador\Jogador.class
+br\com\matheus\gerenciador\jogador\Time.class
+br\com\matheus\gerenciador\repository\JogadorRepository.class
